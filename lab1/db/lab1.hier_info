@@ -1,0 +1,27 @@
+|lab1
+Q0 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+X0 => inst.DATAIN
+C => inst.CLK
+C => inst1.CLK
+C => inst2.CLK
+C => inst3.CLK
+C => inst4.CLK
+C => inst5.CLK
+ENA => inst.ENA
+ENA => inst1.ENA
+ENA => inst2.ENA
+ENA => inst3.ENA
+ENA => inst4.ENA
+ENA => inst5.ENA
+Q1 <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+X1 => inst1.DATAIN
+Q2 <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+X2 => inst2.DATAIN
+Q3 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+X3 => inst3.DATAIN
+Q4 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+X4 => inst4.DATAIN
+Q5 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+X5 => inst5.DATAIN
+
+

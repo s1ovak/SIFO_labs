@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="lab3">
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_counter0:inst44|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_ram_dq1:inst30|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_pkc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_add_sub0:inst12|lpm_add_sub:lpm_add_sub_component" CBX_FILE_NAME="add_sub_elh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_counter0:inst50|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_counter0:inst52|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_d4i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab3|lpm_rom3:inst31|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_4i71.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

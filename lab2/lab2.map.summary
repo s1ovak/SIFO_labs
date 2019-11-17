@@ -1,0 +1,15 @@
+Analysis & Synthesis Status : Successful - Fri Sep 20 11:56:58 2019
+Quartus II Version : 9.1 Build 222 10/21/2009 SJ Web Edition
+Revision Name : lab2
+Top-level Entity Name : dop_block
+Family : Stratix II
+Logic utilization : N/A
+    Combinational ALUTs : 38
+    Dedicated logic registers : 9
+Total registers : 9
+Total pins : 21
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 9-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="lab5">
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst10|lpm_compare4:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant0:5|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_6e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant2:3|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst10|lpm_counter1:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rlh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst11|lpm_compare4:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst12|lpm_counter2:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst12|lpm_decode1:inst5|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_p7f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant11:inst6|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_2g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst11|lpm_counter1:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rlh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst12|lpm_compare4:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst13|lpm_counter2:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst13|lpm_decode1:inst5|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_p7f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant1:6|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant3:4|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ae6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant8:inst1|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_rf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst12|lpm_counter1:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rlh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst13|lpm_compare4:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_cig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|slave:S1|lpm_compare3:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_aig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant6:inst4|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_uf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst13|lpm_counter1:inst3|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_rlh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|slave:S2|lpm_compare3:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_aig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant0:1|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_6e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant2:7|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_8e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant9:inst2|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_0g6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|slave:S3|lpm_compare3:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_aig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant10:inst3|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_rf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant4:ints|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_sf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant7:inst5|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_vf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|slave:S4|lpm_compare3:inst2|lpm_compare:lpm_compare_component" CBX_FILE_NAME="cmpr_aig.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant1:2|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_7e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant3:8|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_ae6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|lpm_constant5:inst|lpm_constant:lpm_constant_component" CBX_FILE_NAME="lpm_constant_qf6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst10|lpm_counter2:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst10|lpm_decode1:inst5|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_p7f.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst11|lpm_counter2:inst|lpm_counter:lpm_counter_component" CBX_FILE_NAME="cntr_olh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|lab5|master:inst11|lpm_decode1:inst5|lpm_decode:lpm_decode_component" CBX_FILE_NAME="decode_p7f.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
